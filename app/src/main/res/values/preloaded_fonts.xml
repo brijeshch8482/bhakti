@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/belgrano</item>
+        <item>@font/im_fell_dw_pica_sc</item>
+    </array>
+</resources>

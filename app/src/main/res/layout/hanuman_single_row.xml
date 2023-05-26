@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="5dp"
+    app:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:id="@+id/hanuman_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/hanuman_image_single_row"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/hanuman_logo"/>
+
+        <TextView
+            android:id="@+id/hanuman_text_single_row"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/hanuman_image_single_row"
+            android:text="Hanuman Stavan"
+            android:textAlignment="center"
+            android:layout_marginTop="20dp"
+            android:textStyle="bold"
+            android:textColor="@color/textColor"
+            android:textSize="30dp"/>
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

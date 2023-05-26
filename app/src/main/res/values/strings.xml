@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Bhakti</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Open">nav_open</string>
+    <string name="Close">nav_close</string>
+    <string name="shree_ram">श्री राम</string>
+    <string name="hanuman_ji">हनुमान जी</string>
+    <string name="maa_durga">माँ दुर्गा</string>
+    <string name="bholenath">भोलेनाथ</string>
+    <string name="contact_us">Contact us</string>
+    <string name="about_developer">About Developer</string>
+    <string name="om_shree_ganeshay_namah">ॐ श्री गणेशाय नमः</string>
+    <string name="try_again">Try Again</string>
+    <string name="OpenDrawer">Open Navigation drawer</string>
+    <string name="CloseDrawer">Close Navigation drawer</string>
+    <string name="welcome_to_bhakti_duniya">Welcome to Bhakti Duniya !!</string>
+    <string name="profile">Profile</string>
+    <string name="login">Login</string>
+    <string name="logout">logOut</string>
+    <string name="communication">Communication</string>
+
+</resources>

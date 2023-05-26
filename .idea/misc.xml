@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/drawable-v24/button_black_background.xml" value="0.3155" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/drawable-v24/buttons_background.xml" value="0.286" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/drawable/background.xml" value="0.2745" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/drawable/bottom_nav_icon_color.xml" value="0.286" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/drawable/button_black_background.xml" value="0.286" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/drawable/internet_background.xml" value="0.331" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/drawable/line.xml" value="0.261" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/drawable/text_background.xml" value="0.2745" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/drawable/text_view_background.xml" value="0.286" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/drawable/tool_bar_background.xml" value="0.286" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/font/im_fell_dw_pica_sc.xml" value="0.3880208333333333" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout-land/no_internet_connection.xml" value="0.3029100529100529" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout-v28/activity_login.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout-v28/fragment_book.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/about_developer.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/activity_ashtakam.xml" value="0.3383152173913043" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/activity_bhajan.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/activity_bholenath.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/activity_hanuman_ji.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/activity_maa_durga.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/activity_mandir.xml" value="0.3383152173913043" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/activity_shree_ram.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/activity_sign_up.xml" value="0.33" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/activity_start.xml" value="0.33" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/activity_view_pdf.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/app_bar_main.xml" value="0.3383152173913043" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/ashtakam_single_row.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/bholenath_single_row.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/char_ved_single_row.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/content_main.xml" value="0.3383152173913043" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/durga_single_row.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/fragment_aarti.xml" value="0.3383152173913043" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/fragment_about_developer.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/fragment_ashtakam.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/fragment_ashtakam1.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/fragment_audio.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/fragment_book.xml" value="0.21" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/fragment_mandir.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/fragment_profile.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/fragment_ram_bhajan.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/fragment_ram_fregment.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/fragment_short_video.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/fragment_shree_ram_home.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/fragment_video.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/google_login.xml" value="0.3383152173913043" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/hadder_layout.xml" value="0.3383152173913043" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/hanuman_single_row.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/mandir_single_row.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/navheader.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/no_internert_connection.xml" value="0.3383152173913043" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/no_internet_connection.xml" value="0.25" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/ram_single_row.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/short_video_single_row.xml" value="0.33" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/square.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/layout/video_single_row.xml" value="0.35280797101449274" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/menu/bhajan_bottom_nav_menu.xml" value="0.3609375" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3619791666666667" />
+        <entry key="..\:/Andriod/Bhakti/app/src/main/res/menu/navigation_menu.xml" value="0.3619791666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Embedded JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

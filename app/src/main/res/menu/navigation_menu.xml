@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/aarti"
+        android:icon="@drawable/diya"
+        android:title="Aarti Sangrah"/>
+
+    <item
+        android:id="@+id/chalisa"
+        android:icon="@drawable/om"
+        android:title="Chalisa Sangrah"/>
+
+    <item
+        android:id="@+id/invitation"
+        android:icon="@drawable/card"
+        android:title="Bhakti Invitation card"/>
+
+
+
+    <item android:title="@string/profile">
+
+        <menu>
+
+            <item
+                android:id="@+id/logIn"
+                android:icon="@drawable/ic_baseline_login_24"
+                android:title="@string/login"/>
+
+            <item
+                android:id="@+id/logOut"
+                android:icon="@drawable/ic_baseline_logout_24"
+                android:title="@string/logout"/>
+
+        </menu>
+
+    </item>
+    <item android:title="@string/communication">
+
+        <menu>
+
+            <item
+                android:id="@+id/contact"
+                android:icon="@drawable/ic_baseline_message_24"
+                android:title="@string/contact_us"/>
+
+        </menu>
+
+    </item>
+
+</menu>

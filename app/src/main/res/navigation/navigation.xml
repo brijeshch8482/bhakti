@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/bookFragment">
+
+    <fragment
+        android:id="@+id/bookFragment"
+        android:name="com.example.bhakti.Fragments.BookFragment"
+        android:label="fragment_book"
+        tools:layout="@layout/fragment_book" >
+        <action
+            android:id="@+id/action_bookFragment_to_ashtakamFragment"
+            app:destination="@id/ashtakamFragment" />
+        <action
+            android:id="@+id/action_bookFragment_to_mandirFragment"
+            app:destination="@id/mandirFragment" />
+        <action
+            android:id="@+id/action_bookFragment_to_aartiFragment"
+            app:destination="@id/aartiFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/ashtakamFragment"
+        android:name="com.example.bhakti.Fragments.AshtakamFragment"
+        android:label="fragment_ashtakam"
+        tools:layout="@layout/fragment_ashtakam" >
+        <action
+            android:id="@+id/action_ashtakamFragment_to_bookFragment"
+            app:destination="@id/bookFragment" />
+        <action
+            android:id="@+id/action_ashtakamFragment_to_aartiFragment"
+            app:destination="@id/aartiFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/mandirFragment"
+        android:name="com.example.bhakti.Fragments.MandirFragment"
+        android:label="fragment_mandir"
+        tools:layout="@layout/fragment_mandir" >
+        <action
+            android:id="@+id/action_mandirFragment_to_bookFragment"
+            app:destination="@id/bookFragment" />
+        <action
+            android:id="@+id/action_mandirFragment_to_aartiFragment"
+            app:destination="@id/aartiFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/aartiFragment"
+        android:name="com.example.bhakti.Fragments.AartiFragment"
+        android:label="fragment_aarti"
+        tools:layout="@layout/fragment_aarti" >
+        <action
+            android:id="@+id/action_aartiFragment_to_bookFragment"
+            app:destination="@id/bookFragment" />
+        <action
+            android:id="@+id/action_aartiFragment_to_ashtakamFragment"
+            app:destination="@id/ashtakamFragment" />
+    </fragment>
+</navigation>
